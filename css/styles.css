@@ -67,6 +67,11 @@ p {
     font-family: "Montserrat-Light";
 }
 
+.nav-link:hover {
+    background-color: #ef8172;
+    border-radius: 55px;
+}
+
 /* Buttons */
 
 .download-button {
